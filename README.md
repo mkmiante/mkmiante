@@ -32,7 +32,7 @@
 **LOCATION:** Baguio City, CAR<br>
 **OCCUPATION:** BSIT Undergrad / Freelance Creative<br>
 **ORGANIZATION:** University of the Cordilleras<br>
-**DOMAIN:** UI Design / Video Editing<br>
+**DOMAIN:** UI Design / Full Stack Developer<br>
 
 <hr>
 
